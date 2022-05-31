@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aldrin Saldanha
+- 👋 Hi, I’m Aldrin Saldanha.
 - 👀 I’m interested in Data Science and Machine-Learning
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me aldrinsaldanha@yahoo.in
