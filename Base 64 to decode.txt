@@ -1,0 +1,7 @@
+import base64
+file = open(r'C:\Users\dsexa\Downloads\Untitled.txt', 'rb')
+byte = file.read()
+file.close()
+decodeit = open('ca.jpg', 'wb')
+decodeit.write(base64.b64decode((byte)))
+decodeit.close()
